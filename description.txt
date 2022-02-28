@@ -1,0 +1,13 @@
+death detec
+
+creador: Angelsaucc
+
+¿como usar?
+
+Primero deves decrear el objectivo muertes de scoreboard usando /scoreboard objectives add muertes dummy muertes
+
+despues coloca /scoreboard objectives setdisplay disebar muertes
+
+el ultimo comando sirve para aser visible el contador de muertes
+
+sigueme en youtube. @Angelsaucc

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Detecta cuando alguien muere en minecraft",
+        "name": "§l§fDeath detec",
+        "uuid": "5e23853f-96f4-681a-fca1-8d3f0e7e0763",
+        "version": [2, 0, 0],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Detecta cuando alguien muere en minecraft",
+            "type": "data",
+            "uuid": "057fc1eb-6bcd-7e4f-ae87-93a328e6ae38",
+            "version": [2, 0, 0]
+        }
+    ]
+}
